@@ -130,7 +130,7 @@ super + alt + r
 
 # Close/Kill node
 super + {_,shift + }q
-	bspc node -{c,k}
+	bspc node -{k,c}
 
 # Reload sxhkd Keybinds
 super + Escape
